@@ -1,6 +1,7 @@
 # code your #valid_move? method here
 board = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
-puts "Enter a position on the board from 1-9"
+puts "Enter a position on the board from 1-9:"
+user_input = gets.chomp
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
 def valid_move?
