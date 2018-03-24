@@ -4,9 +4,6 @@ puts "Enter a position on the board from 1-9:"
 user_input = gets.chomp
 number_entered = user_input.to_i - 1
 
-
-# re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
-
 def valid_move?
   
 
