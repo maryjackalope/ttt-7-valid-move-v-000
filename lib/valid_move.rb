@@ -36,10 +36,11 @@ end
 
 def some_new_fabulous_method
     if position_taken?
-        execute something
+        true
     else
-        execute something else
+        false
     end
 end
+
 valid_move(number_entered, board)
 
