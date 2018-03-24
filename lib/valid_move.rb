@@ -28,4 +28,5 @@ taken = nil
     
 end
 
-valid_move
+valid_move(number_entered, board)
+
