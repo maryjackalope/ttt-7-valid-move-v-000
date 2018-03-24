@@ -34,6 +34,12 @@ taken = nil
     
 end
 
-if 
+def some_new_fabulous_method
+    if position_taken?
+        execute something
+    else
+        execute something else
+    end
+end
 valid_move(number_entered, board)
 
