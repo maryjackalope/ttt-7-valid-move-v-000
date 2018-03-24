@@ -34,5 +34,6 @@ taken = nil
     
 end
 
+if 
 valid_move(number_entered, board)
 
