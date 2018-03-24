@@ -2,8 +2,8 @@
 board = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
 
 puts "Enter a position on the board 1-9:"
-user_input = gets
-number_entered = user_input.to_i - 1
+ #user_input = gets
+#number_entered = user_input.to_i - 1
 
 
 def valid_move? (number_entered, board)
