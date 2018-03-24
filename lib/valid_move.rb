@@ -14,6 +14,7 @@ def valid_move? (number_entered, board)
   else
     
     false
+  end
 end
   
 
