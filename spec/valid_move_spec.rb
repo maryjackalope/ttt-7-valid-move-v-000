@@ -1,5 +1,7 @@
 require_relative "../lib/valid_move.rb"
 
+user_input= gets.chomp 
+
 describe './lib/valid_move.rb' do
   it 'returns true for a valid position on an empty board' do
     board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
