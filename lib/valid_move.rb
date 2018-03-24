@@ -28,3 +28,4 @@ taken = nil
     
 end
 
+valid_move
