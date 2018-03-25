@@ -1,8 +1,6 @@
 # code your #valid_move? method here
-
-puts "Enter a position on the board 1-9:"
-
 board = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
+puts "Enter a position on the board 1-9:"
 
  #user_input = gets
 #number_entered = user_input.to_i - 1
