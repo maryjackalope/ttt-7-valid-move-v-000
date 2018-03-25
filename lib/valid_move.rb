@@ -33,13 +33,7 @@ taken = nil
     
 end
 
-def some_new_fabulous_method
-    if position_taken?
-        true
-    else
-        false
-    end
-end
+
 
 #valid_move?(board, 0)
 
