@@ -41,5 +41,5 @@ def some_new_fabulous_method
     end
 end
 
-valid_move?(0, board)
+valid_move?(board, 0)
 
